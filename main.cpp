@@ -13,5 +13,3 @@ int main(int argc, char *argv[])
 
     return a.exec();
 }
-//skasowac modifikacje do testu gita
-// kolejne poprawki do githuba szybkie szkolenie jak to ma dzialac kod testowy

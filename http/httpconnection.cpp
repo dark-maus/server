@@ -1,5 +1,5 @@
 #include "httpconnection.h"
-//test gita co to da i co sie stanie
+
 HttpConnection::HttpConnection(QObject *parent) : TcpConnecton(parent)
 {
     qDebug() <<this << "Creted httpconnection";
